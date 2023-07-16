@@ -1,5 +1,5 @@
 # traffic_accidents
-
+Pracovali jsme na tomto úkolu společně s dalšími lidmi v týmu: Lubor Zoufal, Petronela Černá, Filip Kocián, Karel Ziernwald
 
 
 ## Getting started
